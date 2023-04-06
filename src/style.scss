@@ -1,0 +1,228 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+.right-5p {
+  right: 5%;
+}
+
+.mb-15p {
+  margin-bottom: 15%;
+}
+
+.mt-10p {
+  margin-top: 10%;
+}
+
+.mt-15p {
+  margin-top: 15%;
+}
+
+.mt-20p {
+  margin-top: 20%;
+}
+
+.mt-5p {
+  margin-top: 5%;
+}
+
+.mt-2\.5p {
+  margin-top: 2.5%;
+}
+
+.ml-5p {
+  margin-left: 5%;
+}
+
+.bottom-10p {
+  bottom: 10%;
+}
+
+.bottom-20p {
+  bottom: 20%;
+}
+
+.-bottom-20p {
+  bottom: -20%;
+}
+
+.-bottom-35p {
+  bottom: -35%;
+}
+
+.-bottom-40p {
+  bottom: -40%;
+}
+
+.left-40p {
+  left: 40%;
+}
+
+.left-20p {
+  left: 20%;
+}
+
+.left-10p {
+  left: 10%;
+}
+
+.left-15p {
+  left: 15%;
+}
+
+.bottom-5p {
+  bottom: 5%;
+}
+
+.w-10p {
+  width: 10%;
+}
+
+.w-22\.5p {
+  width: 22.5%;
+}
+
+.w-90p {
+  width: 90%;
+}
+
+.left-15p {
+  left: 15%;
+}
+
+.left-5p {
+  left: 5%;
+}
+
+.right-15p {
+  right: 15%;
+}
+
+.right-5p {
+  right: 5%;
+}
+
+.right-10p {
+  right: 10%;
+}
+
+.top-10p {
+  top: 10%;
+}
+
+.-top-10p {
+  top: -10%;
+}
+
+.-top-5p {
+  top: -5%;
+}
+
+.top-5p {
+  top: 5%;
+}
+
+.top-15p {
+  top: 15%;
+}
+
+.top-20p {
+  top: 20%;
+}
+
+.top-55p {
+  top: 55%;
+}
+
+.top-35p {
+  top: 35%;
+}
+
+.top-30p {
+  top: 30%;
+}
+
+.text-4v {
+  font-size: 4vw;
+}
+
+.text-3v {
+  font-size: 3vw;
+}
+
+.text-2v {
+  font-size: 2vw;
+}
+
+.text-1v {
+  font-size: 1vw;
+}
+
+.text-1\.5v {
+  font-size: 1.5vw;
+}
+
+.text-1\.25v {
+  font-size: 1.25vw;
+}
+
+.transition-transform {
+  transition: transform 150ms;
+}
+
+.h-section {
+  height: 50vw;
+}
+
+.h-40p {
+  height: 40%;
+}
+
+.h-90p {
+  height: 90%;
+}
+
+.w-concurs {
+  width: 10vw;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #000000;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  background: transparent;
+}
+
+.p-15p {
+  padding: 15%;
+}
+
+.h-5\/12 {
+    height: 41%;
+}
+
+.h-1\/12 {
+    height: 12.4%;
+}
+
+.w-1\/12p {
+  width: 12.4%;
+}
+
+.h-2\/12 {
+    height: 16.6%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
